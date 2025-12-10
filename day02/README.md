@@ -7,7 +7,7 @@ This solution is implemented in Dart.
 Run the script with an input file:
 
 ```bash
-dart bin/day02.dart input.txt
+dart bin/day02.dart inputs/test.txt
 ```
 
 It will output the solutions for both part 1 and part 2.
