@@ -44,7 +44,7 @@ std::vector<std::string> CreateMap(const std::string_view contents) {
 
   constexpr auto kDelimiter{"\n"};
   while ((next = contents.find(kDelimiter, last)) != std::string::npos) {
-    map.push_back(std::string{contents.substr(last, next - last)});
+    map.emplace_back(contents.substr(last, next - last));
     last = next + 1;
   }
   return map;
