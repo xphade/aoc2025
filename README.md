@@ -19,6 +19,7 @@ Each day's solutions are organized in their own directories:
  - `day01/` - Python
  - `day02/` - Dart
  - `day03/` - Zig
+ - `day04/` - C++
 
 ## Running Solutions
 
