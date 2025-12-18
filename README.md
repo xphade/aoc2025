@@ -20,6 +20,7 @@ Each day's solutions are organized in their own directories:
  - `day02/` - Dart
  - `day03/` - Zig
  - `day04/` - C++
+ - `day05/` - Lua
 
 ## Running Solutions
 
