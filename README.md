@@ -21,6 +21,7 @@ Each day's solutions are organized in their own directories:
  - `day03/` - Zig
  - `day04/` - C++
  - `day05/` - Lua
+ - `day06/` - Lua
 
 ## Running Solutions
 
