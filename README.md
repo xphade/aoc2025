@@ -22,6 +22,7 @@ Each day's solutions are organized in their own directories:
  - `day04/` - C++
  - `day05/` - Lua
  - `day06/` - Lua
+ - `day07/` - Python
 
 ## Running Solutions
 
